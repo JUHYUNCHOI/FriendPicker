@@ -1,0 +1,24 @@
+{
+  "students": [
+    {
+      "name": "최주현",
+      "number": 1,
+      "gender": 1
+    },
+    {
+      "name": "김민지",
+      "number": 2,
+      "gender": 2
+    },
+    {
+      "name": "한우리",
+      "number": 3,
+      "gender": 1
+    },
+    {
+      "name": "심봉사",
+      "number": 4,
+      "gender": 2
+    }
+  ]
+}
